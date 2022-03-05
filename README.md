@@ -1,12 +1,12 @@
-# Desafio Aprendendo POO na pr·tica
-RepositÛrio contendo o desafio de criar uma simulaÁ„o de bootcamps.
-## DescriÁ„o:
- - O programa contÈm classes que simulam o domÌnio de um bootcamp.
- - Nele È possÌvel criar bootcamps, alunos, cursos e mentorias, e tambÈm utilizar os mÈtodos das classes para matricular o aluno nos bootcamps, concluir os cursos, ou tambÈm calcular a XP adquirida.
- - Ele tambÈm utiliza dos 4 pilares principais da POO:
- 	- AbstraÁ„o
+# Desafio Aprendendo POO na pr√°tica
+Reposit√≥rio contendo o desafio de criar uma simula√ß√£o de bootcamps.
+## Descri√ß√£o:
+ - O programa cont√©m classes que simulam o dom√≠nio de um bootcamp.
+ - Nele √© poss√≠vel criar bootcamps, alunos, cursos e mentorias, e tamb√©m utilizar os m√©todos das classes para matricular o aluno nos bootcamps, concluir os cursos, ou tamb√©m calcular a XP adquirida.
+ - Ele tamb√©m utiliza dos 4 pilares principais da POO:
+ 	- Abstra√ß√£o
   	- Encapsulamento
-  	- HeranÁa
+  	- Heran√ßa
   	- Polimorfismo
  - O programa foi baseado no [github.com/cami-la/desafio-poo-dio](https://github.com/cami-la/desafio-poo-dio).
- - AlÈm de se basear no trabalho desenvolvido acima, tambÈm foram incluÌdas algumas funcionalidades adicionais, como mapear as datas que os cursos foram concluÌdos, atravÈs de Maps. 
+ - Al√©m de se basear no trabalho desenvolvido acima, tamb√©m foram inclu√≠das algumas funcionalidades adicionais, como mapear as datas que os cursos foram conclu√≠dos, atrav√©s de Maps.
